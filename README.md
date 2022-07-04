@@ -1,6 +1,6 @@
 # Linebot
 LINE DevelopersにてMessagingAPIを使用。  
-Flask. 
+Flask. herokuにて作成　　
 lineID:@810khtciのkoukiというbotはオウム返しをするよう設定されている。  
 友人とのline上での会話にて、  
 ・話題に出てきた行きたいところを保存しておきたい. 
